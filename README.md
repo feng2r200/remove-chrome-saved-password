@@ -1,1 +1,4 @@
-# remove-chrome-saved-password
+### 批量删除 Chrome 中指定用户名的全部密码
+
+UCloud 云数据库页面的 URL 前缀经常变,导致记住了一堆密码,后来改了密码之后之前记录的还在,删除只能一个个删,用 Python 写个脚本帮我删
+
